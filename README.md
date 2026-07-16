@@ -24,3 +24,5 @@ That would fit well as a:
 - Machine-learning engineer with strong modeling ownership
 - Decision scientist or product data scientist
 - AI solutions engineer or forward-deployed data scientist
+
+![alt text](<ChatGPT Image Jul 16, 2026, 03_50_26 PM.png>)
