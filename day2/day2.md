@@ -14,7 +14,13 @@ Format: [Question] -> [Answer in 5 words]Example: What is the capital of France?
 Now do this: What is the capital of Japan?
 ```
 
-The Claude website also describes a useful tool called a "metaprompt" that takes a plain language task with simple variables and develops it into a complex, multishot LLM invocation for stronger outputs: https://platform.claude.com/cookbook/misc-metaprompt
+The Claude website also describes a useful tool called a "metaprompt" that takes a plain language task with simple variables and develops it into a complex, multishot LLM invocation for stronger outputs: https://platform.claude.com/cookbook/misc-metaprompt.
+
+I also discovered that using "roles" can help the AI understand the objective and type of response that you're seeking. example template
+
+```
+Pretend that you are a ... working at ... trying to ... for an audience of ... under the stakes of ... ... etc.
+```
 
 ## Prompt Engineering Results
 
